@@ -56,18 +56,22 @@ Motor Power: 1573 W
 Max. Speed: 1380 rpm  
 Max. Flow Rate: 17230 m³/h   
 
-### 
+### Sodeca - HC-71-6T/H IE3
 
+- Wall-mounted axial fan with fiberglass reinforced plastic propeller with IP55 engine. (HC-71-6T/H IE3)
+- Three-Phase motor
+- High flow
+- Technical data sheet: "https://d7rh5s3nxmpy4.cloudfront.net/CMP2671/files/1/SE07_HC_2019ES.pdf"
 
 
 #### Technical Specifications:
 
-Diameter:  m  
-Blades:   
-Weight:  Kg  
-Motor Power:  W  
-Max. Speed:  RPM  
-Max. Flow Rate:  m**3/h   
+Diameter:  0.71 m  
+Blades:  10 blades 
+Weight: 39 Kg  
+Motor Power: 750 W  
+Max. Speed: 940 RPM  
+Max. Flow Rate: 17300 m**3/h  
 
 ### Systemair AW 630D4-2
 
